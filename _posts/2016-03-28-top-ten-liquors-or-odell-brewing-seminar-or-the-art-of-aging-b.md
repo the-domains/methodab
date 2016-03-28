@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Top Ten Liquors
-    url: 'https://www.youtube.com/channel/UCuKcWfln-pRViiqgNt4rVFQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=NqL3pVqqG0o'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - beer
@@ -21,7 +17,13 @@ keywords:
   - buzzfeedvideo
   - brewing
 description: "Odell Brewing company's Ryan Tostenson came to our Blaine seminar to talk about the history of Odell Brewing company, how they age beer, as well as the Do's and Don't of aging your beer at home."
-inLanguage: en
+datePublished: '2016-03-28T19:22:41.785Z'
+dateModified: '2016-03-28T19:22:36.526Z'
+author:
+  - name: Top Ten Liquors
+    url: 'https://www.youtube.com/channel/UCuKcWfln-pRViiqgNt4rVFQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=NqL3pVqqG0o&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=NqL3pVqqG0o'
 title: 'Top Ten Liquors | Odell Brewing Seminar | The Art of Aging Beer'
-datePublished: '2016-03-28T19:22:22.931Z'
-dateModified: '2016-03-28T19:18:31.542Z'
 sourcePath: _posts/2016-03-28-top-ten-liquors-or-odell-brewing-seminar-or-the-art-of-aging-b.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
