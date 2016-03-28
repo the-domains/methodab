@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[methodab]]></title>
-        <description><![CDATA[methodab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Art of Alcoholic Science]]></title>
+        <description><![CDATA[The Art of Alcoholic Science]]></description>
+        <link>https://thegrid.ai/methodab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:43:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 18:55:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/methodab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The science and art of whisky making | Andy Connelly]]></title>
+            <description><![CDATA[<article><h1>The science and art of whisky making | Andy Connelly</h1><p>If you are lucky enough to be reading this with a glass of whisky in your hand then take a second to regard the contents of your glass. Is it a pale golden or dark ruby colour? Does it greet your nose with memories of heather moorland or salty coastlines?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81ccff6eab7747291756efa0df721decafb8df67.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/science/blog/2010/aug/23/science-art-whisky-making</link>
+            <guid isPermaLink="false">79a2fc38-b3e0-45bf-be34-56be855b1923</guid>
+            <pubDate>Mon, 28 Mar 2016 18:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 Groundbreaking Techniques That Are Changing Aged Spirits Forever]]></title>
             <description><![CDATA[<article><h1>5 Groundbreaking Techniques That Are Changing Aged Spirits Forever</h1><p>The ongoing quest for rapid-aged spirits is nothing new. Spirits that are typically barrel-aged for a decade or more are hardly cost effective for new distillers looking to grow their businesses quickly. In a sea of established brands, that long-held reliance on time as the key factor in flavor inspires many distillers to employ unorthodox aging methods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7a37ed51b743b1d76cf06f92c009062ca8d4346.jpg"></article>]]></description>
