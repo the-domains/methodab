@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.nytimes.com'
-  name: Nytimes
-  favicon: 'https://static01.nyt.com/favicon.ico'
-  domain: www.nytimes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.nytimes.com/2014/07/22/science/proof-drinks-in-the-science-of-alcohol.html?_r=0'
+inLanguage: en
+starred: false
 keywords:
   - alcohol
   - rogers
@@ -18,7 +17,10 @@ keywords:
   - hangovers
   - oak
 description: 'One of the great things about "Breaking Bad" was that it emphasized just how much the magic of intoxication depends on science. Walter White may have been a meth dealer and a criminal mastermind, but he was, above all, a really good chemist.'
-inLanguage: en
+datePublished: '2016-03-28T19:03:24.719Z'
+dateModified: '2016-03-28T19:03:20.806Z'
+author: []
+related: []
 app_links:
   - url: 'nytimes://reader/id/100000003012050'
     type: android
@@ -44,17 +46,17 @@ app_links:
     package: com.nytimes.android
     namespace: google
     type: android
-isBasedOnUrl: 'http://www.nytimes.com/2014/07/22/science/proof-drinks-in-the-science-of-alcohol.html?_r=0'
 title: "'Proof' Drinks in the Science of Alcohol"
-datePublished: '2016-03-28T18:54:38.729Z'
-dateModified: '2016-03-28T18:46:56.707Z'
 sourcePath: _posts/2016-03-28-proof-drinks-in-the-science-of-alcohol.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nytimes
+  domain: www.nytimes.com
+  url: 'http://www.nytimes.com'
+  favicon: 'https://static01.nyt.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>'Proof' Drinks in the Science of Alcohol</h1><p>One of the great things about "Breaking Bad" was that it emphasized just how much the magic of intoxication depends on science. Walter White may have been a meth dealer and a criminal mastermind, but he was, above all, a really good chemist.</p><img src="https://static01.nyt.com/images/2014/07/22/science/22SCIB/22SCIB-videoSixteenByNine1050.jpg" /></article>
+<article style=""><h1>'Proof' Drinks in the Science of Alcohol</h1><p>One of the great things about "Breaking Bad" was that it emphasized just how much the magic of intoxication depends on science. Walter White may have been a meth dealer and a criminal mastermind, but he was, above all, a really good chemist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b33aeb77f790173c52339330f316e03523937a6a.jpg" /></article>
