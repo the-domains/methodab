@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=K2bSJxdI3Xw'
+inLanguage: null
+starred: false
+keywords: []
+description: "THE ANSWER WE'VE ALL BEEN WAITING FOR! While Ardbeg is suspended within its zero-gravity Space Pod, Dr Bill Lumsden has been keeping us all in suspense as he prepares to publish his highly anticipated White Paper on the mysteries of maturation. But finally, the experiment is over, the research is complete and the lab coats are off."
+datePublished: '2016-03-28T19:04:14.239Z'
+dateModified: '2016-03-28T19:04:08.445Z'
 author:
   - name: ardbegtv
     url: 'https://www.youtube.com/user/ardbegtv'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "THE ANSWER WE'VE ALL BEEN WAITING FOR! While Ardbeg is suspended within its zero-gravity Space Pod, Dr Bill Lumsden has been keeping us all in suspense as he prepares to publish his highly anticipated White Paper on the mysteries of maturation. But finally, the experiment is over, the research is complete and the lab coats are off."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=K2bSJxdI3Xw'
 title: 'Ardbeg Space Experiment - Final Frontier Film: The Pier Review'
-datePublished: '2016-03-28T19:01:15.113Z'
-dateModified: '2016-03-28T19:00:29.805Z'
 sourcePath: _posts/2016-03-28-ardbeg-space-experiment-final-frontier-film-the-pier-revi.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
