@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.viralnova.com'
-  name: ViralNova.com
-  favicon: 'http://media.galaxant.com/000/446/704/favicon.ico'
-  domain: www.viralnova.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.viralnova.com/molecular-mixology/'
+inLanguage: en
+starred: false
 keywords:
   - drinks
   - cocktails
@@ -18,17 +17,20 @@ keywords:
   - delicious
   - mix
 description: "Most people have their go-to mixed drink that they love sipping after a long at work or over the weekend with friends. It's the drink you're comfortable with that you know you'll enjoy. But maybe it's time you get a little adventurous. Take a step into the brave new world of molecular mixology."
-inLanguage: en
+datePublished: '2016-03-28T19:50:08.765Z'
+dateModified: '2016-03-28T19:50:02.970Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.viralnova.com/molecular-mixology/'
 title: "Here Are 11 Epic Drinks Your Science Teacher Should've Taught You How To Make"
-datePublished: '2016-03-28T19:49:31.385Z'
-dateModified: '2016-03-28T19:48:12.929Z'
 sourcePath: _posts/2016-03-28-here-are-11-epic-drinks-your-science-teacher-shouldve-taugh.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: ViralNova.com
+  domain: www.viralnova.com
+  url: 'http://www.viralnova.com'
+  favicon: 'http://media.galaxant.com/000/446/704/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
